@@ -1,4 +1,6 @@
-# Two Sum Solution (C++)
+# Two Sum Solution (C++) 
+Abenezer Degife 
+ATE/2172/15
 
 This program efficiently solves the "Two Sum" problem: given an array of integers and a target integer, it returns the indices of the two numbers in the array that add up to the target.
 
