@@ -4,5 +4,4 @@ This program efficiently solves the "Two Sum" problem: given an array of integer
 
 **Algorithm:** Utilizes a hash map (std::map) for O(n) time complexity, storing complements and their indices for quick lookup.
 
-**Compilation:**
 
